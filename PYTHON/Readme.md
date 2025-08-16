@@ -38,3 +38,12 @@
 
        
 </pre>
+
+# How to run multiple line in one line
+
+<pre>
+  we can use ; ( semi colon ) 
+
+  eg:
+    a=1;print(a);a=a+1;print(a);a=a+1;print(a);
+</pre>
